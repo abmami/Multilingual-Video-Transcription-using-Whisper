@@ -1,6 +1,6 @@
 # Multilingual Video Transcription using Whisper
 
-A Python command-line tool for downloading and/or transcribing videos using OpenAI's Whisper model. It supports YouTube video URLs, playlists, videos already downloaded locally, or YouTube URLs from a JSON file. It can download videos in different resolutions, and the resulting transcriptions are saved in a JSON file.
+A Python command-line tool for downloading and/or transcribing videos using OpenAI's Whisper open-source model. It supports YouTube video URLs, playlists, videos already downloaded locally, or YouTube URLs from a JSON file. It can download videos in different resolutions, and the resulting transcriptions are saved in a JSON file.
 
 ## Setup 
 
